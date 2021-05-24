@@ -1,4 +1,4 @@
-# Olá, esse reposiório é referente ao curso de HTML Web Developer
+# Olá, esse reposiório é referente ao curso de HTML Web Developer da Digital Innovation One
 
 Esse é o repositório da nossa aula de Flexbox, na qual vamos fazer a interface de login do Instagram! 
 
